@@ -69,6 +69,8 @@ i) demonstrate tensorflow colab text guided image->image and image inpainting co
 
 j) demonstrate tensorflow colab personalize text to image models with dreambooth 
 
+colab link : https://colab.research.google.com/drive/1sXf_nsvNUDMkLDEWlnzj19LJi26UXnPT?usp=sharing
+
 Hint: check the tensorflow.org slides on colabs in my slide deck in slide section starting https://docs.google.com/presentation/d/1UxtHDwjViC7VpSb0zB-kajGQ-TwznQmc-7LsbHRfO3s/edit#slide=id.g24036aab941_0_148Links
 
 Other hints : https://huggingface.co/docs/diffusers/using-diffusers/controlling_generationLinks
